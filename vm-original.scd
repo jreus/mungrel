@@ -1,9 +1,16 @@
 //////////////////////////////////////////////////////////////////
-// Tool to Construct Voices from News Recordings
-// Developed at Transmarcations worksession in Brussels
+// (Re)constructing the Aesthetics of Voice from Sparse Recordings
+// developed at the Transmarcations worksession in Brussels, 2017 organized by http://constantvzw.org/
 //
-// This tool loops through multiple sound recordings and interleaves them at
-// the microsound level. Each sound recording is played through in a loop.
+// This tool loops through multiple sound recordings sourced from recent news broadcasts by the BBC, MSNBC and CNN
+// investigating claims of human sale in Libya. The recordings can be combined and interleaved at various rates and resolutions, up to the microsonic.
+//
+// Initially the inspiration for this tool came from discussions during the work session at Constant, particularly a discussion on ways in which aesthetic
+// elements come together to construct a story, and transmigrate that story into modalities where it never existed.
+//
+// This software recombines multiple recordings, mixing the authoritative and carefully emotive voices of reporters with those of migrants voicing
+// desperation, as well as sounds and background music used in the news reports. It's an attempt on my part at 'constructing' a story from sparse elements,
+// I hope to create a sparsely coherent impression of aesthetic 'trustworthy' or 'newsworthy' - ness.
 //
 //
 // Copyright 2017 Jonathan Reus
